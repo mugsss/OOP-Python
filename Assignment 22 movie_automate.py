@@ -1,5 +1,5 @@
 #OOPR-Assgn-22
-"FairyLand Multiplex" wants to automate ticket booking and seat allocation process.
+#"FairyLand Multiplex" wants to automate ticket booking and seat allocation process.
 
 
 
