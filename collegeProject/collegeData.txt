@@ -1,0 +1,5 @@
+222,K.J Somaiya,Engineering,Mumbai,200000,400077
+444,IIT Bombay,Engineering,Mumbai,50000,420801
+555,Goa Medical College,Medical,Panaji,30000,400910
+666,PCCE,Engineering,Verna,30000,405609
+777,VJTI,Engineering,Mumbai,60000,450807
